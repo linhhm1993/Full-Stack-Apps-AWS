@@ -1,0 +1,3 @@
+Link Endpoint URL 200: http://udacitycourse3.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/11819272/pexels-photo-11819272.jpeg?auto=compress%26cs=tinysrgb%26w=300
+
+Link Endpoint URL 400:http://udacitycourse3.us-east-1.elasticbeanstalk.com/filteredimage?image_url
